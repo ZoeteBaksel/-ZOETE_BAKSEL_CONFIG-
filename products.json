@@ -6,7 +6,7 @@
       "prices": [
         "25x12cm - &euro; 25","24cm - &euro; 45"
       ],
-      "image": "https://raw.githubusercontent.com/MaciejBrzozowski/ZOETE_BASKEL_CONFIG/refs/heads/master/Worteltaart.JPG",
+      "image": "https://raw.githubusercontent.com/ZoeteBaksel/-ZOETE_BAKSEL_CONFIG-/refs/heads/master/Worteltaart.JPG",
       "description": "Cheesecake.",
       "currency": "EUR"
     },
@@ -17,7 +17,7 @@
         "25x12cm - &euro; 25",
         "24cm - &euro; 45"
       ],
-      "image": "https://raw.githubusercontent.com/MaciejBrzozowski/ZOETE_BASKEL_CONFIG/refs/heads/master/Maanzaadcake.JPG",
+      "image": "https://raw.githubusercontent.com/ZoeteBaksel/-ZOETE_BAKSEL_CONFIG-/refs/heads/master/Maanzaadcake.JPG",
       "description": "Maanzaadtaart.",
       "currency": "EUR"
     },
@@ -28,7 +28,7 @@
         "25x12cm - &euro; 20",
         "24cm - &euro; 30"
       ],
-      "image": "https://raw.githubusercontent.com/MaciejBrzozowski/ZOETE_BASKEL_CONFIG/refs/heads/master/Peperkoek.JPG",
+      "image": "https://raw.githubusercontent.com/ZoeteBaksel/-ZOETE_BAKSEL_CONFIG-/refs/heads/master/Peperkoek.JPG",
       "description": "Peperkoektaart.",
       "currency": "EUR"
     },
@@ -39,7 +39,7 @@
         "25x12cm - &euro; 20",
         "24cm - &euro; 30"
       ],
-      "image": "https://raw.githubusercontent.com/MaciejBrzozowski/ZOETE_BASKEL_CONFIG/refs/heads/master/Peperkoek.JPG",
+      "image": "https://raw.githubusercontent.com/ZoeteBaksel/-ZOETE_BAKSEL_CONFIG-/refs/heads/master/Appeltaart.JPG",
       "description": "Appeltaart.",
       "currency": "EUR"
     },
