@@ -6,7 +6,7 @@
       "prices": [
         "25x12cm - &euro; 25","24cm - &euro; 45"
       ],
-      "image": "https://raw.githubusercontent.com/ZoeteBaksel/-ZOETE_BAKSEL_CONFIG-/refs/heads/master/Worteltaart.JPG",
+      "image": "https://raw.githubusercontent.com/ZoeteBaksel/-ZOETE_BAKSEL_CONFIG-/refs/heads/master/Worteltaart.jpg",
       "description": "Cheesecake.",
       "currency": "EUR"
     },
@@ -17,7 +17,7 @@
         "25x12cm - &euro; 25",
         "24cm - &euro; 45"
       ],
-      "image": "https://raw.githubusercontent.com/ZoeteBaksel/-ZOETE_BAKSEL_CONFIG-/refs/heads/master/Maanzaadcake.JPG",
+      "image": "https://raw.githubusercontent.com/ZoeteBaksel/-ZOETE_BAKSEL_CONFIG-/refs/heads/master/Maanzaadcake.jpg",
       "description": "Maanzaadtaart.",
       "currency": "EUR"
     },
@@ -28,7 +28,7 @@
         "25x12cm - &euro; 20",
         "24cm - &euro; 30"
       ],
-      "image": "https://raw.githubusercontent.com/ZoeteBaksel/-ZOETE_BAKSEL_CONFIG-/refs/heads/master/Peperkoek.JPG",
+      "image": "https://raw.githubusercontent.com/ZoeteBaksel/-ZOETE_BAKSEL_CONFIG-/refs/heads/master/Peperkoek.jpg",
       "description": "Peperkoektaart.",
       "currency": "EUR"
     },
@@ -39,7 +39,7 @@
         "25x12cm - &euro; 20",
         "24cm - &euro; 30"
       ],
-      "image": "https://raw.githubusercontent.com/ZoeteBaksel/-ZOETE_BAKSEL_CONFIG-/refs/heads/master/Appeltart.JPG",
+      "image": "https://raw.githubusercontent.com/ZoeteBaksel/-ZOETE_BAKSEL_CONFIG-/refs/heads/master/Appeltart.jpg",
       "description": "Appeltaart.",
       "currency": "EUR"
     },
@@ -50,7 +50,7 @@
         "25x12cm - &euro; 20",
         "30x12cm - &euro; 25"
       ],
-      "image": "https://raw.githubusercontent.com/ZoeteBaksel/-ZOETE_BAKSEL_CONFIG-/refs/heads/master/Worteltaart.JPG",
+      "image": "https://raw.githubusercontent.com/ZoeteBaksel/-ZOETE_BAKSEL_CONFIG-/refs/heads/master/Worteltaart.jpg",
       "description": "Worteltaart.",
       "currency": "EUR"
     },
@@ -61,7 +61,7 @@
         "24cm - &euro; 30"
         
       ],
-      "image": "https://raw.githubusercontent.com/ZoeteBaksel/-ZOETE_BAKSEL_CONFIG-/refs/heads/master/Spinazietaart.JPG",
+      "image": "https://raw.githubusercontent.com/ZoeteBaksel/-ZOETE_BAKSEL_CONFIG-/refs/heads/master/Spinazietaart.jpg",
       "description": "Spinazietaart.",
       "currency": "EUR"
     },
@@ -81,7 +81,7 @@
       "prices": [
         "24cm - &euro; 30"
       ],
-      "image": "https://raw.githubusercontent.com/ZoeteBaksel/-ZOETE_BAKSEL_CONFIG-/refs/heads/master/Rafaellotaart.JPG",
+      "image": "https://raw.githubusercontent.com/ZoeteBaksel/-ZOETE_BAKSEL_CONFIG-/refs/heads/master/Rafaellotaart.jpg",
       "description": "Rafaellotaart.",
       "currency": "EUR"
     },
@@ -102,7 +102,7 @@
       "prices": [
         "per 500 gram &euro; 15"
       ],
-      "image": "https://raw.githubusercontent.com/ZoeteBaksel/-ZOETE_BAKSEL_CONFIG-/refs/heads/master/Faworki.JPG",
+      "image": "https://raw.githubusercontent.com/ZoeteBaksel/-ZOETE_BAKSEL_CONFIG-/refs/heads/master/Faworki.jpg",
       "description": "Poolse krullen",
       "currency": "EUR"
     },
@@ -112,7 +112,7 @@
       "prices": [
         "per 500 gram - ?&euro; 15"
       ],
-      "image": "https://raw.githubusercontent.com/ZoeteBaksel/-ZOETE_BAKSEL_CONFIG-/refs/heads/master/Bierkoekjes.JPG",
+      "image": "https://raw.githubusercontent.com/ZoeteBaksel/-ZOETE_BAKSEL_CONFIG-/refs/heads/master/Bierkoekjes.jpg",
       "description": "Bierkoekjes",
       "currency": "EUR"
     },
@@ -123,7 +123,7 @@
         "Per 500 g &euro; 18",
         "Per 1 kg &euro; 30"
       ],
-      "image": "https://raw.githubusercontent.com/ZoeteBaksel/-ZOETE_BAKSEL_CONFIG-/refs/heads/master/Wafels.JPG",
+      "image": "https://raw.githubusercontent.com/ZoeteBaksel/-ZOETE_BAKSEL_CONFIG-/refs/heads/master/Wafels.jpg",
       "description": "Wafels gevuld met karamel",
       "currency": "EUR"
 
@@ -134,7 +134,7 @@
       "prices": [
         "per 20 stuks - ?&euro; 25"
       ],
-      "image": "https://raw.githubusercontent.com/ZoeteBaksel/-ZOETE_BAKSEL_CONFIG-/refs/heads/master/Gistdonuts.JPG",
+      "image": "https://raw.githubusercontent.com/ZoeteBaksel/-ZOETE_BAKSEL_CONFIG-/refs/heads/master/Gistdonuts.jpg",
       "description": "Gistdonuts",
       "currency": "EUR"
     }
