@@ -17,7 +17,7 @@
         "25x12cm - &euro; 25",
         "24cm - &euro; 45"
       ],
-      "image": "./static/cake.png",
+      "image": "https://raw.githubusercontent.com/MaciejBrzozowski/ZOETE_BASKEL_CONFIG/refs/heads/master/Maanzaadcake.JPG",
       "description": "Maanzaadtaart.",
       "currency": "EUR"
     },
@@ -28,7 +28,7 @@
         "25x12cm - &euro; 20",
         "24cm - &euro; 30"
       ],
-      "image": "https://raw.githubusercontent.com/MaciejBrzozowski/ZOETE_BASKEL_CONFIG/refs/heads/master/Cheesecake.JPG",
+      "image": "https://raw.githubusercontent.com/MaciejBrzozowski/ZOETE_BASKEL_CONFIG/refs/heads/master/Peperkoek.JPG",
       "description": "Peperkoektaart.",
       "currency": "EUR"
     },
@@ -50,7 +50,7 @@
         "25x12cm - &euro; 20",
         "30x12cm - &euro; 25"
       ],
-      "image": "https://raw.githubusercontent.com/MaciejBrzozowski/ZOETE_BASKEL_CONFIG/refs/heads/master/Maanzaadcake.JPG",
+      "image": "https://raw.githubusercontent.com/MaciejBrzozowski/ZOETE_BASKEL_CONFIG/refs/heads/master/Worteltaart.JPG",
       "description": "Worteltaart.",
       "currency": "EUR"
     },
@@ -71,7 +71,7 @@
       "prices": [
         "24cm - &euro; 30"
       ],
-      "image": "https://raw.githubusercontent.com/MaciejBrzozowski/ZOETE_BASKEL_CONFIG/refs/heads/master/Rafaellotaart.JPG",
+      "image": "https://raw.githubusercontent.com/MaciejBrzozowski/ZOETE_BASKEL_CONFIG/refs/heads/master/cheescake_koude.JPG",
       "description": "Cheesecake koude taart.",
       "currency": "EUR"
     },
@@ -81,7 +81,7 @@
       "prices": [
         "24cm - &euro; 30"
       ],
-      "image": "https://raw.githubusercontent.com/MaciejBrzozowski/ZOETE_BASKEL_CONFIG/refs/heads/master/Gistdonuts.JPG",
+      "image": "https://raw.githubusercontent.com/MaciejBrzozowski/ZOETE_BASKEL_CONFIG/refs/heads/master/Rafaellotaart.JPG",
       "description": "Rafaellotaart.",
       "currency": "EUR"
     },
@@ -92,7 +92,7 @@
         "26cm - &euro; 30"
       
       ],
-      "image": "https://raw.githubusercontent.com/MaciejBrzozowski/ZOETE_BASKEL_CONFIG/refs/heads/master/Faworki.JPG",
+      "image": "https://raw.githubusercontent.com/MaciejBrzozowski/ZOETE_BASKEL_CONFIG/refs/heads/master/Aardbeien_en_mascarponetaart.JPG",
       "description": "Aardbeien- en mascarponetaart.",
       "currency": "EUR"
     },
@@ -102,7 +102,7 @@
       "prices": [
         "per 500 gram &euro; 15"
       ],
-      "image": "./static/cake.png",
+      "image": "https://raw.githubusercontent.com/MaciejBrzozowski/ZOETE_BASKEL_CONFIG/refs/heads/master/Faworki.JPG",
       "description": "Poolse krullen",
       "currency": "EUR"
     },
@@ -128,13 +128,15 @@
       "currency": "EUR"
 
       
-    } "id": "Gistdonuts",
+    },
+    { "id": "Gistdonuts",
       "name": "Gistdonuts",
       "prices": [
         "per 20 stuks - ?&euro; 25"
       ],
-      "image": "https://raw.githubusercontent.com/MaciejBrzozowski/ZOETE_BASKEL_CONFIG/refs/heads/master/Bierkoekjes.JPG",
+      "image": "https://raw.githubusercontent.com/MaciejBrzozowski/ZOETE_BASKEL_CONFIG/refs/heads/master/Gistdonuts.JPG",
       "description": "Gistdonuts",
       "currency": "EUR"
+    }
   ]
 }
