@@ -7,11 +7,11 @@
   },
   "href": {
     "ContactUsPhoneNumber": "tel:+310633751507",
-    "ContactUsEmail": "mailto:infos@zoetebaksel.nl"
+    "ContactUsEmail": "mailto:info@zoetebaksel.nl"
   },
   "translations": {
     "en": {
-      "WelcomeText": "Welkom bij Zoete baksel.",
+      "WelcomeText": "Welkom bij Zoete Baksel.",
       "DescriptionText": "Huisgemaakt. Vers. Met liefde gebakken. Bij Zoete baksel draait alles om ambacht en smaak.",
       "OfferText": "Vanuit mijn eigen keuken bak ik taarten, tartelettes, koekjes & zoete hapjes, gistgebakken producten en zoete lekkernijen op bestelling.",
       "ClosingText": "Center Alles wordt op bestelling gemaakt, zodat je altijd iets vers krijgt.",
@@ -21,8 +21,8 @@
       "AboutUsText3": "Persoonlijke aandacht en bakken zoals het hoort 🤍",
       "ContactUsText1": "Wil je iets lekkers bestellen of heb je een speciaal idee? Laat me gerust weten:",
       "ContactUsText2": "Ik denk graag met je mee!",
-      "ContactUsText3P1": "Gebak bestellen kan telefonisch ( 06-33751507",
-      "ContactUsText3P2": " ) of door te mailen naar",
+      "ContactUsText3P1": "Gebak kan telefonisch bestellen ( 06-33751507",
+      "ContactUsText3P2": " ) Je kunt gebak telefonisch bestellen  06-33751507  op maandag en dinsdag van 9:00 tot 16:00 uur, en op donderdag en vrijdag van 9:00 tot 12:00 uur",
       "ContactUsText4": "Afhaalmomenten zijn in overleg mogelijk.",
       "ContactUsListItem1": "wat je wilt bestellen",
       "ContactUsListItem2": "voor hoeveel personen",
