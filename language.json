@@ -10,7 +10,7 @@
     "ContactUsEmail": "mailto:info@zoetebaksel.nl"
   },
   "translations": {
-    "en": {
+    "nl": {
       "WelcomeText": "Welkom bij Zoete Baksel.",
       "DescriptionText": "Huisgemaakt. Vers. Met liefde gebakken. Bij Zoete baksel draait alles om ambacht en smaak.",
       "OfferText": "Vanuit mijn eigen keuken bak ik taarten, tartelettes, koekjes & zoete hapjes, gistgebakken producten en zoete lekkernijen op bestelling.",
@@ -31,7 +31,7 @@
       "ContactUsPhoneNumber": "06-33751507",
       "ContactUsEmail": "info@zoetebaksel.nl"
     },
-    "nl": {
+    "en": {
       "WelcomeText": "Welkom bij Zoete baksel.",
       "DescriptionText": "Huisgemaakt. Vers. Met liefde gebakken. Bij Zoete baksel draait alles om ambacht en smaak.",
       "OfferText": "Vanuit mijn eigen keuken bak ik taarten, tartelettes, koekjes & zoete hapjes, gistgebakken producten en zoete lekkernijen op bestelling.",
